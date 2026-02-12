@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_WinFormsListbox", "GUI_WinFormsListbox\GUI_WinFormsListbox.csproj", "{A7769866-D996-4D4A-967B-D55A1EB312D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7769866-D996-4D4A-967B-D55A1EB312D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7769866-D996-4D4A-967B-D55A1EB312D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7769866-D996-4D4A-967B-D55A1EB312D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7769866-D996-4D4A-967B-D55A1EB312D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83907767-F263-4791-8899-5288344E1C3F}
+	EndGlobalSection
+EndGlobal
